@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+        //editado por Ronald Fernando Nieto Calderon
         Toyota toyo = new Toyota("PAS201"); //200
         toyo.encenderMotor();
         toyo.avanzar();
